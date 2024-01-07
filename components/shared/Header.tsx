@@ -1,12 +1,11 @@
 import React from "react";
-<<<<<<< Updated upstream
 
-const Header = () => {
-  return <div>Header</div>;
-=======
-import { Button } from "../ui/button";
-import NavItems from "./NavItems";
-import MobileNav from "./MobileNav";
+import { SignedIn, SignedOut, UserButton } from "@clerk/nextjs"
+import Image from "next/image"
+import Link from "next/link"
+import { Button } from "../ui/button"
+import NavItems from "./NavItems"
+import MobileNav from "./MobileNav"
 
 const Header = () => {
   return (
@@ -40,7 +39,6 @@ const Header = () => {
       </div>
     </header>
   );
->>>>>>> Stashed changes
 };
 
 export default Header;
