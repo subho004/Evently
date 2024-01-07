@@ -9,12 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< Updated upstream
-=======
     "@clerk/nextjs": "^4.29.1",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-separator": "^1.0.3",
->>>>>>> Stashed changes
     "@radix-ui/react-slot": "^1.0.2",
     "@uploadthing/react": "^6.1.0",
     "class-variance-authority": "^0.7.0",
