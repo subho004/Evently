@@ -13,6 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
+## Video
+
+
+https://github.com/subho004/Evently/assets/91646273/aec02270-14cb-4a57-87f5-3cc53b97a1bc
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
